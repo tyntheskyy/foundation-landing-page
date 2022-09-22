@@ -11,8 +11,8 @@
     list-style: none;
     gap: 10px; 
     align-items: center;
-    padding-left: 125px;
-    padding-right: 125px;
+    padding-left: 400px;
+    padding-right: 400px;
 }
 
 .left-list {
@@ -31,7 +31,7 @@
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
-    padding: 75px 125px;
+    padding: 75px 400px;
 }
 
 .hero-main {
@@ -48,7 +48,7 @@
     display: flex;
 }
 .snow-trees {
-    width: 300px;
+    height: 122px;
 }
 
 .top-button,
