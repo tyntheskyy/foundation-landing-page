@@ -65,7 +65,8 @@ li {
     padding: 0;
     list-style: none;
 }
-.illustration {
+.illustration,
+.text-container {
     display: flex;
     padding-left: 400px;
     padding-right: 400px;
@@ -81,4 +82,15 @@ li {
     font-size: 36px;
     font-weight: bolder;
     color: #1F2937;
+}
+
+.text-container {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: lighter;
+    color: #1F2937;
+    font-style: italic;
 }
