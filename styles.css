@@ -27,7 +27,9 @@
     color: #F9FAF8;
 }
 
+.container{
+    display: flex;
+}
 .snow-trees {
     width: 250px;
-    justify-content: end;
 }
