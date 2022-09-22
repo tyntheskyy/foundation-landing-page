@@ -67,7 +67,6 @@ li {
 }
 .illustration {
     display: flex;
-    border: 1px solid;
     padding-left: 400px;
     padding-right: 400px;
     gap: 20px;
@@ -75,4 +74,11 @@ li {
 .box-images img {
     height: 75px;
     border-radius: 5px;
+}
+
+.infohead-text {
+    text-align: center;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
 }
