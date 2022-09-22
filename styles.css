@@ -48,6 +48,7 @@
 }
 .avalanche {
     height: 122px;
+    margin-left: 150px;
 }
 
 .top-button {
@@ -71,8 +72,8 @@ li {
 .illustration,
 .text-container {
     display: flex;
-    padding-left: 400px;
-    padding-right: 400px;
+    padding-left: 450px;
+    padding-right: 450px;
     gap: 20px;
 }
 .box-images img {
@@ -132,7 +133,7 @@ li {
 
 .bottom-button {
     border:1px solid #F9FAF8;
-    margin-left: 90px;
+    margin-left: 150px;
 }
 
 
