@@ -29,7 +29,24 @@
 
 .container{
     display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 75px 125px;
+}
+
+.hero-main {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.pic-container{
+    display: flex;
 }
 .snow-trees {
-    width: 250px;
+    width: 300px;
 }
