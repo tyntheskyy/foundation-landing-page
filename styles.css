@@ -50,11 +50,14 @@
     height: 122px;
 }
 
+.top-button {
+    border: 1px #3882F6;
+}
+
 .top-button,
 .bottom-button {
     background-color: #3882F6;
     border-radius: 5px;
-    border: 1px #3882F6;
     color: #F9FAF8;
     padding: 5px 20px;
     font-weight: bold;
@@ -89,8 +92,6 @@ li {
     background-color: #E5E7EB;
     padding-top: 30px;
     padding-bottom: 30px;
-
-
 }
 
 .quote {
@@ -116,7 +117,22 @@ li {
     background-color: #3882F6;
     justify-content: space-around;
     border-radius: 5px;
-    padding: 16px 48px;
+    padding: 20px 50px;
+}
+
+.call {
+    color: #F9FAF8;
+    font-weight: bold;   
+}
+
+.call-two {
+    color: #F9FAF8;
+    font-size: 12px;
+}
+
+.bottom-button {
+    border:1px solid #F9FAF8;
+    margin-left: 90px;
 }
 
 
