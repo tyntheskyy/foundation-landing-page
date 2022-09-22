@@ -109,12 +109,15 @@ li {
     justify-content: center;
     align-items: center;
     border: 1px solid;
+    padding: 40px 75px;
 }
 .blue-container {
     display: flex;
-    flex-direction: column;
     background-color: #3882F6;
     justify-content: space-around;
     border-radius: 5px;
+    padding: 16px 48px;
 }
+
+
 
