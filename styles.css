@@ -50,3 +50,13 @@
 .snow-trees {
     width: 300px;
 }
+
+.top-button,
+.bottom-button {
+    background-color: #3882F6;
+    border-radius: 5px;
+    border: 1px #3882F6;
+    color: #F9FAF8;
+    padding: 5px 20px;
+    font-weight: bold;
+}
