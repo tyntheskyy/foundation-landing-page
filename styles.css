@@ -1,0 +1,13 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 150px;
+}
+
+.list-one{
+    display:flex;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    gap: 10px;
+}
