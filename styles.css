@@ -85,7 +85,12 @@ li {
 }
 
 .text-container {
+    flex-direction: column;
     background-color: #E5E7EB;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
 }
 
 .quote {
@@ -93,4 +98,9 @@ li {
     font-weight: lighter;
     color: #1F2937;
     font-style: italic;
+}
+
+.attribution {
+    align-self: flex-end;
+    font-weight: bold;
 }
