@@ -1,7 +1,7 @@
 .body {
     display: flex;
     flex-direction: column;
-    margin: 0 150px;
+    margin: 0;
 }
 
 .list-one{
@@ -9,5 +9,16 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    gap: 10px;
+    gap: 10px; 
+    color: #F9FAF8;
+    background-color: #1F2937;
+    align-items: center;
+    padding-left: 125px;
+    padding-right: 125px;
+}
+
+.left-list {
+    margin-right: auto;
+    font-weight: bold;
+    font-size: 24px;
 }
